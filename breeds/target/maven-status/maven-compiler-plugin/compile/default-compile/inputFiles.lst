@@ -1,0 +1,8 @@
+/Users/felipe/IdeaProjects/PetShop2/breeds/src/main/java/com.petshop.breed/BreedApplication.java
+/Users/felipe/IdeaProjects/PetShop2/breeds/src/main/java/com.petshop.breed/service/BreedService.java
+/Users/felipe/IdeaProjects/PetShop2/breeds/src/main/java/com.petshop.breed/service/client/PetsFeignClient.java
+/Users/felipe/IdeaProjects/PetShop2/breeds/src/main/java/com.petshop.breed/service/client/PetsFallback.java
+/Users/felipe/IdeaProjects/PetShop2/breeds/src/main/java/com.petshop.breed/mapper/BreedMapper.java
+/Users/felipe/IdeaProjects/PetShop2/breeds/src/main/java/com.petshop.breed/repository/BreedRepo.java
+/Users/felipe/IdeaProjects/PetShop2/breeds/src/main/java/com.petshop.breed/entity/BreedEntity.java
+/Users/felipe/IdeaProjects/PetShop2/breeds/src/main/java/com.petshop.breed/controller/BreedsController.java

@@ -1,0 +1,5 @@
+/Users/felipe/IdeaProjects/PetShop2/common/src/main/java/common/entity/BaseEntity.java
+/Users/felipe/IdeaProjects/PetShop2/common/src/main/java/common/dto/PetDTO.java
+/Users/felipe/IdeaProjects/PetShop2/common/src/main/java/common/audit/AuditAwareImpl.java
+/Users/felipe/IdeaProjects/PetShop2/common/src/main/java/common/dto/ErrorResponseDto.java
+/Users/felipe/IdeaProjects/PetShop2/common/src/main/java/common/dto/BreedDTO.java

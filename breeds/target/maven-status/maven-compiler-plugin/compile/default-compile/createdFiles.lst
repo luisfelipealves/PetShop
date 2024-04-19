@@ -1,0 +1,10 @@
+com/petshop/breed/service/client/PetsFallback.class
+com/petshop/breed/mapper/BreedMapperImpl.class
+com/petshop/breed/repository/BreedRepo.class
+com/petshop/breed/service/client/PetsFeignClient.class
+com/petshop/breed/entity/BreedEntity$BreedEntityBuilder.class
+com/petshop/breed/mapper/BreedMapper.class
+com/petshop/breed/BreedApplication.class
+com/petshop/breed/controller/BreedsController.class
+com/petshop/breed/entity/BreedEntity.class
+com/petshop/breed/service/BreedService.class
