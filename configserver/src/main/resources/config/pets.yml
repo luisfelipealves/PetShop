@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/petsdb
+    url: jdbc:mysql://localhost:3316/petdb
     username: root
     password: root
   jpa:
