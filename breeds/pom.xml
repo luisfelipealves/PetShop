@@ -13,13 +13,6 @@
     <name>breed</name>
     <description>Demo project for Breed microservices</description>
 
-    <properties>
-        <maven.compiler.source>19</maven.compiler.source>
-        <maven.compiler.target>19</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring-cloud.version>2023.0.0</spring-cloud.version>
-    </properties>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -160,6 +153,15 @@
                 <artifactId>jib-maven-plugin</artifactId>
                 <version>3.4.1</version>
                 <configuration>
+                    <from>
+                        <image>openjdk:17-oracle</image> <!-- will use JDK 17 -->
+                        <platforms>
+                            <platform>
+                                <architecture>amd64</architecture> <!-- architecture OS -->
+                                <os>linux</os> <!-- linux OS -->
+                            </platform>
+                        </platforms>
+                    </from>
                     <to>
                         <image>luisfelipealves/${project.artifactId}:v1</image>
                     </to>

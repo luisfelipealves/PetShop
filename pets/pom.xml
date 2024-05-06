@@ -13,11 +13,6 @@
     <name>pets</name>
     <description>Demo project for Pet microservices</description>
 
-    <properties>
-        <java.version>17</java.version>
-        <spring-cloud.version>2023.0.0</spring-cloud.version>
-    </properties>
-
     <dependencies>
         <dependency>
             <groupId>com.petshop</groupId>
