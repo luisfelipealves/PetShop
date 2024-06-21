@@ -25,5 +25,6 @@ public class BreedDTO{
     @NotEmpty(message = "Breed name can not be a null or empty")
     @Schema(
             description = "Breed name", example = "Chihuahua"
-    )    private String name;
+    )
+    private String name;
 }
